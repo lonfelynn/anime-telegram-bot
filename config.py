@@ -1,0 +1,2 @@
+token = " "
+database = "anime.db"
